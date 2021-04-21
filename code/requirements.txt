@@ -1,0 +1,16 @@
+tensorflow
+numpy
+os
+pandas
+sklearn
+random
+pickle
+tensorflow_hub
+datetime
+fse
+io
+nltk
+fasttext
+re
+Levenshtein
+time
